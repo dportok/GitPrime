@@ -1,1 +1,2 @@
 adding some testing text
+trying to merge branch
